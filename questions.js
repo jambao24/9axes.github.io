@@ -248,7 +248,7 @@ questions =
             "Foreigners should never enter the country"
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
+            "Only extremely talented immigrants should be permitted to enter the country",
             "If we accept migrants at all, it is important that they assimilate into our culture."
         ],
         [//2
